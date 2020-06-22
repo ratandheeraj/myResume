@@ -1,0 +1,35 @@
+{
+  "personal": {
+    "name": "Ratan Dheeraj K.",
+    "course": "Computer Science student at Andhra University",
+    "phone": "+91 8962354889",
+    "email": "ratandheeraj1@gmail.com",
+    "address": "Visakhapatnam",
+    "objective": "To create a resume with the skills I learned during the APSSDC Online Training.",
+    "languages": "English, Telugu, Hindi, French.",
+    "nationality": "Indian",
+    "age": "19 years",
+    "gender": "Male",
+    "dob": "21 / 05 / 2001"
+  },
+  "skills": [
+    "Web Development.",
+    "Proficient in Python, JavaScript, C, C++ programming languages.",
+    "Internet of Things.",
+    "Competetive Programming."
+  ],
+  "qualifications": {
+    "tenth": "Tenth Class(ICSE)",
+    "tenth_year": "2016",
+    "tenth_school": "Alwardas Public School",
+    "tenth_per": "89.8",
+    "inter": "Inter(ISC)",
+    "inter_year": "2018",
+    "inter_clg": "Alwardas Public School",
+    "inter_per": "78.25",
+    "ug": "Engineering(CSE)",
+    "ug_year": "2022",
+    "ug_clg": "Andhra University",
+    "ug_per": "Still Studiying"
+  }
+}
